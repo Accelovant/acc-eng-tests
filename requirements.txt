@@ -1,0 +1,1 @@
+acc_py_inst@git+ssh://git@github.com/Accelovant/acc-py-inst.git@840b2d3c7021a879fa37d0662530a8ff23b4e1ba#egg=acc_py_inst
